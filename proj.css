@@ -1,0 +1,23 @@
+h4 {
+    color: rgb(150, 98, 34);
+}
+body{
+
+background-color: antiquewhite;
+text-align: center;
+}
+
+.image img {
+    width: 200px;
+    border-radius: 50%;
+}
+.container{
+    border: solid 20px rgb(168, 155, 81);
+}
+.container {
+    border-bottom: 20%;
+}
+#p1 {
+    
+
+}
